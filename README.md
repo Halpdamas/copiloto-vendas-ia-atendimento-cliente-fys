@@ -32,7 +32,26 @@ Aqui estão alguns exemplos divertidos de como o Sommelier FYS responde:
     *   *Sommelier:* "Olha só, temos um integrante da realeza por aqui! Filé mignon com queijo forte... Só faltou a taça de cristal para acompanhar o banquete. Mas já que você resolveu ostentar, vamos harmonizar com um refri que não estrague a sua pose. Um prato pesado assim pede algo que limpe o paladar. Minha recomendação de especialista é a FYS Tônica com toque de Limão Siciliano. O amargor sofisticado dela corta a gordura do queijo perfeitamente. E ela tem 45% menos açúcar, porque até quem esnoba no prato gosta de fingir que é fitness na bebida. Bom apetite, Vossa Alteza."
 
 ## 🛠️ Como testar
-[Explique como o avaliador pode testar seu projeto. Ex: link do playground da OpenAI/Gemini, instruções de um script Python/JS simples, ou link de uma aplicação web se você criar uma]
+## 🛠️ Como Testar o Sommelier FYS
 
+Você pode testar a personalidade e as respostas do Sommelier FYS facilmente utilizando qualquer Inteligência Artificial generativa (como ChatGPT, Gemini ou Claude). Siga os passos abaixo:
+
+1. **Abra um chat de IA de sua preferência:**
+   * [ChatGPT](https://chat.openai.com)
+   * [Gemini](https://gemini.google.com)
+   * [Claude](https://claude.ai)
+
+2. **Inicie a conversa enviando a instrução de sistema (System Prompt):**
+   Copie o texto completo que está na seção **"Engenharia de Prompt"** deste README, cole no chat e envie. Isso vai "programar" a IA para agir como o Sommelier FYS.
+
+3. **Mande uma mensagem com o seu prato ou humor:**
+   Experimente enviar mensagens como:
+   * *"Vou almoçar arroz, feijão e um ovo frito hoje."*
+   * *"Estou comendo uma barra inteira de chocolate porque o dia foi difícil."*
+   * *"Vou jantar sushi com os amigos."*
+
+4. **Veja a mágica (e o deboche) acontecer!**
+   O Sommelier FYS vai julgar o seu prato no tom característico da marca e sugerir a FYS ideal para harmonizar.
+   
 ## 🛡️ Segurança de Marca (Brand Safety)
 Embora o assistente utilize um tom sarcástico e irônico (característico da FYS), o projeto foi configurado com diretrizes estritas para nunca utilizar termos ofensivos, palavrões ou linguagem inadequada. O humor é focado de forma amigável nas combinações de alimentos, mantendo a experiência segura e divertida para o público geral.
